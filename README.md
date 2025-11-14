@@ -1,0 +1,2 @@
+# Plugin
+Qt插件
