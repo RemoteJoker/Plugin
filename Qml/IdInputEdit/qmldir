@@ -1,0 +1,9 @@
+module IdInputEdit
+linktarget IdInputEditplugin
+optional plugin IdInputEditplugin
+classname IdInputEditPlugin
+typeinfo IdInputEdit.qmltypes
+prefer :/IdInputEdit/
+IdInputItemControls 1.0 IdInputItemControls.qml
+depends QtQuick
+

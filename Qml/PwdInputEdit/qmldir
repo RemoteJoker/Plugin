@@ -1,0 +1,9 @@
+module PwdInputEdit
+linktarget PwdInputEditplugin
+optional plugin PwdInputEditplugin
+classname PwdInputEditPlugin
+typeinfo PwdInputEdit.qmltypes
+prefer :/PwdInputEdit/
+PwdInputEditControls 1.0 PwdInputEditControls.qml
+depends QtQuick
+
